@@ -7,4 +7,4 @@ wynik = subprocess.run(
 )
 
 #print(wynik.stdout)
-#print(wynik.returncode)
+print(wynik.returncode)
