@@ -6,5 +6,4 @@ wynik = subprocess.run(
     text=True
 )
 
-print(wynik.stdout)
-print(wynik.returncode)
+#print(wynik.stdout)
